@@ -4,4 +4,4 @@
 
 - 📝 I regularly write articles on [https://www.virtualdeepak.com/](https://www.virtualdeepak.com/)
 
-- 📫 You can reach me at **emailvirtualdeepak@gmail.com**
+- 📫 You can reach me at emailvirtualdeepak@gmail.com
