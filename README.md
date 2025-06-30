@@ -38,7 +38,7 @@ customers) with custom APIM load-balancing policies on Azure OpenAI.
 - [Data Science 2021: Complete Data Science & Machine Learning - Udemy](https://www.udemy.com/certificate/UC-28a85e98-a36d-4f88-952e-8d729a8fa637/)
 
 ### 🎤 Speaking Engagements (so far)
-- Panelist at ["Build with AI"](https://www.linkedin.com/posts/gdgpune_buildwithai-gdgpune-deutschebank-activity-7344046196237164548-tjgW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL1pbsBxk4dCggFunJOfGDiNeS_lAD-NUg) series (June 25 edition) by Google Developer Groups.
+- Panelist at ["Build with AI"](https://www.linkedin.com/posts/gdgpune_buildwithai-gdgpune-deutschebank-activity-7344046196237164548-tjgW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL1pbsBxk4dCggFunJOfGDiNeS_lAD-NUg) series (June 25 edition) by **Google Developer Groups.**
 - Speaker on multiple occasions at [Pune User Group (PUG)](https://www.linkedin.com/posts/engage-deepakagarwal_microsoftcopilot-ai-microsoftteams-activity-7327378501307666433-Qq_t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL1pbsBxk4dCggFunJOfGDiNeS_lAD-NUg) – on topics 
 related to Azure AI, Azure services and Microsoft Copilot extensibility framework with agents.
 - Presenter at [Icertis annual events](https://www.linkedin.com/posts/engage-deepakagarwal_icertis-collectiveintelligence-icertiscopilot-activity-7291834349908336640-o48V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAL1pbsBxk4dCggFunJOfGDiNeS_lAD-NUg) and multiple in-house brown-bag sessions sharing insights on AI, 
